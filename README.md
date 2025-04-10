@@ -23,9 +23,10 @@ Type (All or Movie or TV Show)
 
 Title (All or Movie or TV Show Title)
 
-
-📌 Tools Used:
+# Tools Used:
 Tableau for data visualization
-
 Netflix Dataset (sourced from Kaggle)
+
+# View the Live Dashboard
+https://public.tableau.com/views/NetflixDashboard_17441362907040/NetflixDashboard
 
